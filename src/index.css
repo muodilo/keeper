@@ -52,6 +52,7 @@ form textarea{
 
 .item-card{
   margin-left: 2rem;
+  margin-right: 2rem;
   background-color: rgba(128, 128, 128, 0.368);
   box-shadow: 2px 5px 10px;
 }
